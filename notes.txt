@@ -1,0 +1,16 @@
+data path:
+/censipam_data/Datasets/DIUx-xView/xView3_first_place
+
+conda command: 
+conda env create -f environment.yml
+
+conda activate xview3
+
+nvitop commands:
+https://pypi.org/project/nvitop/#usage
+
+nvitop -U
+quit: q
+
+git:
+https://github.com/DIUx-xView/xView3_first_place
