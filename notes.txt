@@ -14,3 +14,6 @@ quit: q
 
 git:
 https://github.com/DIUx-xView/xView3_first_place
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
